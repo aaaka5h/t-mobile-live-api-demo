@@ -1,0 +1,30 @@
+{
+ "name": "t-mobile-live-api-demo",
+ "version": "1.0.0",
+ "description": "",
+ "main": "app.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "ts-node-dev src/app.ts"
+ },
+ "repository": {
+  "type": "module",
+  "url": "git+https://github.com/aaaka5h/t-mobile-live-api-demo.git"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/aaaka5h/t-mobile-live-api-demo/issues"
+ },
+ "homepage": "https://github.com/aaaka5h/t-mobile-live-api-demo#readme",
+ "dependencies": {
+  "express": "^4.21.1"
+ },
+ "devDependencies": {
+  "@types/express": "^5.0.0",
+  "@types/node": "^22.7.5",
+  "ts-node-dev": "^2.0.0",
+  "typescript": "^5.6.3"
+ }
+}
